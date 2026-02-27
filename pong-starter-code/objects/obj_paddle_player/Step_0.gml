@@ -2,7 +2,7 @@
 
 // --- PLAYER INPUT ---
 // Define a variable for movement speed.
-var move_speed = 5;
+var move_speed = 25;
 
 // Check if the 'W' key or Up Arrow is being held down.
 if (keyboard_check(ord("W")) || keyboard_check(vk_up)) {
